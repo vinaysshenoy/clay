@@ -22,7 +22,7 @@ allprojects {
 }
 
 dependencies {
-  compile 'com.linecorp:clayview:0.1.1'
+  compile 'com.linecorp:clayview:0.1.2'
 }
 ```
 
